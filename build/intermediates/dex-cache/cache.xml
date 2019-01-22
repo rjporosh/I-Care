@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Porosh\Desktop\icare Rj porosh\app\libs\pagerslidingtabstrip-1.0.1-sources.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6a34a8358416eecbbfe6fa3a54b95d8afd4b0b39">
+        <dex dex="C:\Users\Porosh\Desktop\icare Rj porosh\app\build\intermediates\pre-dexed\debug\pagerslidingtabstrip-1.0.1-sources-32189a79f566b3ee02d5f24ee6d4fa489ed63df1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Porosh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\Porosh\Desktop\icare Rj porosh\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-6245ae197684a58935c7c0dc9d69f8a59400eb2b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Porosh\Desktop\icare Rj porosh\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\Porosh\Desktop\icare Rj porosh\app\build\intermediates\pre-dexed\debug\classes-bad299b6a105f65ff5e467c4a5e82f22e2d58fd5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Porosh\Desktop\icare Rj porosh\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\Porosh\Desktop\icare Rj porosh\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-beb79a2478a8d52ca862b705b022af55427bfabd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Porosh\Desktop\icare Rj porosh\app\build\intermediates\exploded-aar\com.astuetz\pagerslidingtabstrip\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="C:\Users\Porosh\Desktop\icare Rj porosh\app\build\intermediates\pre-dexed\debug\classes-35113b50d7789e4a3ff9a850cb65d9758c54b523.jar" />
+    </item>
+    <item
+        jar="C:\Users\Porosh\Desktop\icare Rj porosh\app\build\intermediates\exploded-aar\com.edmodo\cropper\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66467578c335f7a6babdbe01f7f0ac63230f578e">
+        <dex dex="C:\Users\Porosh\Desktop\icare Rj porosh\app\build\intermediates\pre-dexed\debug\classes-5a4efc9b53e92f37b87d2d37946fd37324a66002.jar" />
+    </item>
+    <item
+        jar="C:\Users\Porosh\Desktop\icare Rj porosh\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\Porosh\Desktop\icare Rj porosh\app\build\intermediates\pre-dexed\debug\classes-a369142dda7a63d6fc59ae492c6f91d8c774d27a.jar" />
+    </item>
+
+</items>

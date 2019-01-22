@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" android:drawable="@drawable/nav_list_item_background"/>
+    <item android:state_pressed="false" android:drawable="@drawable/list_item_background"/>
+
+</selector><!-- From: file:/C:/Users/Porosh/Desktop/icare%20Rj%20porosh/app/src/main/res/drawable/nav_list_item_drawable.xml -->

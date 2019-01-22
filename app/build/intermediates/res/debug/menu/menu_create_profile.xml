@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context="com.example.rjporosh.icare.MainActivity">
+    <item android:id="@+id/save" android:title="@string/save"
+        android:orderInCategory="100" app:showAsAction="always|withText" android:icon="@drawable/save" />
+</menu>
+<!-- From: file:/C:/Users/Porosh/Desktop/icare%20Rj%20porosh/app/src/main/res/menu/menu_create_profile.xml -->
